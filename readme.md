@@ -6,13 +6,11 @@ This is a simple editor that allows you to manage your ads.txt file without any 
 
 Simply download this as a .zip file and upload it to your WordPress plugin management console.
 
-Translated Japanese Version
-
 # Ads.txt エディター
 
 Google AdSenseなどの広告サービスを利用するためには、インターネット上でアクセス可能なads.txtファイルが必要です。
 
-このエディターは、手間をかけずにads.txtファイルを管理できるシンプルなツールです。このプラグインは軽く、WordPressサイトのパフォーマンスにほとんど影響を与えません。
+このエディターは、手間をかけずにads.txtファイルを管理できるシンプルなツールです。このプラグインはもともとコードが少なく、WordPressサイトのパフォーマンスにはほとんど影響を与えません。
 
 .zipファイルとしてダウンロードし、WordPressのプラグイン管理コンソールにアップロードしてください。
 

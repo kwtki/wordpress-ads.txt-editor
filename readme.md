@@ -14,7 +14,7 @@ Google AdSenseなどの広告サービスを利用するためには、インタ
 
 .zipファイルとしてダウンロードし、WordPressのプラグイン管理コンソールにアップロードしてください。
 
-# How to
+# How to use this repository as plugin
 
 ![alt text](./assets/download-as-zip.png)
 

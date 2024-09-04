@@ -1,4 +1,4 @@
-# wAds.txt Editor
+# Ads.txt Editor
 
 For ad services like Google AdSense, it’s essential to have an ads.txt file accessible on the internet.
 
@@ -34,8 +34,6 @@ Go to Settings > Ads.txt Editor
 
 ![](assets/20240904_165446_image.png)
 
-you can verify if it is added by just visiting
-
-`your_domain.com/ads.txt`
+Visit `your_domain.com/ads.txt` to verify that the ads.txt file is accessible for crawling.
 
 ![](assets/20240904_165606_image.png)

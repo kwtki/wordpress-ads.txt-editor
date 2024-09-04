@@ -37,3 +37,5 @@ Go to Settings > Ads.txt Editor
 Visit `your_domain.com/ads.txt` to verify that the ads.txt file is accessible for crawling.
 
 ![](assets/20240904_165606_image.png)
+
+That's it! Happy coding! 🎉

@@ -16,26 +16,30 @@ Google AdSenseなどの広告サービスを利用するためには、インタ
 
 # How to Use This Repository as Plugin
 
-![alt text](./assets/download-as-zip.png)
+![alt text](./blob_assets/download-as-zip.png)
+
+After extraction, please delete **blob_assets/** and .zip again.
+
+**blob_assets/** is sololy for documentation assets, and not related to code functionality.
 
 ## Upload the .zip file on Plug-in console
 
-![](assets/20240904_165002_image.png)
+![](blob_assets/20240904_165002_image.png)
 
 After installation, activate the plugin.
 
 ## Go to Ads.txt editor
 
-![](assets/20240904_165259_image.png)
+![](blob_assets/20240904_165259_image.png)
 
 Go to Settings > Ads.txt Editor
 
 ## Add your adsence text
 
-![](assets/20240904_165446_image.png)
+![](blob_assets/20240904_165446_image.png)
 
 Visit `your_domain.com/ads.txt` to verify that the ads.txt file is accessible for crawling.
 
-![](assets/20240904_165606_image.png)
+![](blob_assets/20240904_165606_image.png)
 
 That's it! Happy coding! 🎉

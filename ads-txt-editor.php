@@ -3,7 +3,7 @@
  * Plugin Name: Ads.txt Editor
  * Description: A simple plugin to edit the ads.txt file directly from the WordPress admin.
  * Version: 1.0
- * Author: kkawataki
+ * Author: kkawataki.com
  */
 
 // Prevent direct access to the file
